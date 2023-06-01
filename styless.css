@@ -176,21 +176,6 @@ h2 {
       100%{background-position: -2000px;}
   } 
 
-  
- 
-
-
-
-
-.container {
-  max-width: 1170px;
-  margin: auto;
-}
-
-.row {
-  display: flex;
-  flex-wrap: wrap;
-}
 
 ul {
   list-style: none;
